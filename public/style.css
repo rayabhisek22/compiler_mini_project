@@ -1,0 +1,19 @@
+.my-form{
+	border: 1px solid black; 
+	padding: 3% 7%;
+	margin: 5% auto; 
+	width: 47%; 
+	background-color: white;
+}
+
+#text-editor{
+	margin-bottom: 10px; 
+	background-color: #e1ede4; 
+}
+
+.result{
+	width: 450px; 
+	height: 100px; 
+	background-color: #e1ede4; 
+	border-left: 1px solid black;
+}
